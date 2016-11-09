@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-jsdoc",
+  "name": "eslint-plugin-jsdoc-jens",
   "description": "JSDoc linting rules for ESLint.",
   "version": "2.3.2",
   "main": "./dist/index.js",
